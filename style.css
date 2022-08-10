@@ -1,0 +1,10 @@
+#head1 {
+    font-size: 48px;
+    color:#f00;
+    font-family: 'Microsoft Yahei', 'Simsun', sans-serif;
+}
+
+#box {
+    font-size: 22px;
+    border:2px dashed #00f;
+}
