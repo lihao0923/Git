@@ -7,5 +7,7 @@ window.onload = function() {
     head1.onmouseleave = function() {
         this.style.color = '#f00';
     }
+
+    console.log('hello world!');
 };
 
