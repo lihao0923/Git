@@ -1,4 +1,5 @@
 let data = {
   name: 'xiaoming',
-  hobbies: ['movies', 'swimming', 'coding']
+  hobbies: ['movies', 'swimming', 'coding'],
+  occupation: 'engineer'
 }
