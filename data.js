@@ -1,5 +1,6 @@
 let data = {
-  name: 'lihao',
-  age: 32,
-  gender: 'male'
+  name: 'xiaoming',
+  age: 25,
+  gender: 'male',
+  hobbies: ['movies', 'swimming', 'coding']
 }
